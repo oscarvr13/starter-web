@@ -13,4 +13,8 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 ##Deployment
 
+This is the deployment area
+
 ##How to contribute
+
+You can contribute in the folllowing way
