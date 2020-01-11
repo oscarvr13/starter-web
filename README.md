@@ -18,3 +18,7 @@ This is the deployment area
 ##How to contribute
 
 You can contribute in the folllowing way
+
+##Copyright
+
+
