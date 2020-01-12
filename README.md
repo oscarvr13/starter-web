@@ -19,6 +19,8 @@ This is the deployment area
 
 You can contribute in the folllowing way
 
+Please fork this repository and then issue Pull Requests for review 
+
 ##Copyright
 
 Git.Training
