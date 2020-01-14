@@ -27,4 +27,4 @@ As stated above, the main purpose is to provide simple examples for Git training
 ##Deployment
 
 This is the deployment area
-
+This is a dummy change
