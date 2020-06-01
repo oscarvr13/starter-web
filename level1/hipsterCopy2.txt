@@ -1,0 +1,1 @@
+Hipster file to work with renaming and deletions. 
