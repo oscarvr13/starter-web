@@ -9,6 +9,9 @@ Updating for emergency fix after stashing
 
 ##Intoduction
 
+Adding for rebase purposes.
+SOme information
+
 ##How to contribute
 
 You can contribute in the folllowing way
