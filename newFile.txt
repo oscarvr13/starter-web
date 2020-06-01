@@ -1,2 +1,4 @@
-Addind for merging in newFile.txt
+Addind for merging in newFile.t
+Modifying the file new File to generate a conflict 
 hipster.txt
+Adding some more here
