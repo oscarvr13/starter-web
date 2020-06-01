@@ -1,1 +1,2 @@
+Addind for merging in newFile.txt
 hipster.txt
