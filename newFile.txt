@@ -1,2 +1,4 @@
 Addind for merging in newFile.txt
+Modifying the same file in the same structure on master.
 hipster.txt
+Modifying on master.
