@@ -1,5 +1,7 @@
 # Starter Web Project
 
+Merging file in master to prove is not possible to do a ff when existing more commits.
+
 This is a simple website project for showing how to use Git and GitHub together.
 Adding a line for rebasing example
 more changes from myfeature branch
