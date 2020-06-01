@@ -1,3 +1,5 @@
+*.swo
+*.swp
 level11.txt
 *.log
 log/
