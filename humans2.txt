@@ -15,3 +15,5 @@ Modify a tracked file
     HTML5, CSS3
     jQuery, Modernizr
     Git technology
+
+Modifying for merging exercise
