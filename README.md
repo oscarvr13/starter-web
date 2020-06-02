@@ -11,6 +11,8 @@ Updating for emergency fix after stashing
 
 Adding for rebase purposes.
 SOme information
+Adding information for rebase purposes.
+On the rebase branch
 
 ##How to contribute
 
